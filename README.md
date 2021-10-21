@@ -27,4 +27,4 @@
 
 
 
-![Example](https://git.foxminded.com.ua/oleksii.podhurskyi/anagrams/-/raw/dev/docs/example.jpg)
+![Example](https://github.com/alex-podhurskyi/anagrams/blob/master/docs/example.jpg?raw=true)
